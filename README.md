@@ -10,7 +10,7 @@ For Apple silicon Macs (M1 or later), macOS 13 or later · by [Tech Reality](htt
 
 ## Why I made it
 
-I made CoreCrawl because I was frustrated. Some website audit tools wanted money for the genuinely useful parts, and others were too complicated for a beginner to get anywhere with. I wanted something free that anyone running a website could pick up and understand.
+I made CoreCrawl because I was frustrated with so many other apps out there just not having the features I wanted at the price I wanted them at.. that being FREE! Some website audit tools wanted money for the genuinely useful parts, and others were too complicated for a beginner to get anywhere with. I wanted something free that anyone running a website could pick up and understand.
 
 — Gordon, Tech Reality
 
