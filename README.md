@@ -2,7 +2,7 @@
 
 **Free, private website audits for Mac.** CoreCrawl crawls your website and shows you what is broken, missing or holding it back: broken links, redirect chains, missing titles, repeated titles and descriptions, indexing problems and more. It runs on your Mac. No account, no subscription, nothing locked behind a paywall.
 
-### [Download CoreCrawl 2.25.4 (free)](https://github.com/tech-reality/CoreCrawl-releases/releases/latest/download/CoreCrawl.dmg)
+### [Download CoreCrawl 2.25.5 (free)](https://github.com/tech-reality/CoreCrawl-releases/releases/latest/download/CoreCrawl.dmg)
 
 For Apple silicon Macs (M1 or later), macOS 13 or later · by [Tech Reality](https://tech-reality.co.uk) · [Website](https://tech-reality.github.io/CoreCrawl-releases/)
 
